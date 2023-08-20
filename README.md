@@ -1,1 +1,3 @@
 # CelsiusToFahrenheitAnalyzer
+
+This Python code comprises several functions to handle temperature conversion and analysis. The `get_num_readings` function collects the number of temperature readings. The `celsius_to_fahrenheit` function converts Celsius to Fahrenheit. The `display_message` function offers a temperature-based message. The `main` function orchestrates the program. It gets temperature readings, converts them, displays Fahrenheit and corresponding messages, and calculates average temperatures in both scales. The code ensures proper input validation and provides comprehensive temperature analysis for a specified number of readings, helping users understand temperature trends.
